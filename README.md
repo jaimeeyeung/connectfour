@@ -1,1 +1,2 @@
 # connectfour
+connectfour takes in either a character, "X" or "O", along with a number from 0-6, and outputs a connect four grid, with the given letter(either "X" or "O"), in the given column(0-6). Once a consistent row/column/diagonal with 4 of the same consistent letters appear, it outputs the Player (either Player X or Player O) that won. If a number or letter is inputted, an error message will be printed. 
